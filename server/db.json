@@ -1,0 +1,60 @@
+{
+  "contacts": [
+    {
+      "id": "D6BNdWnHI",
+      "name": "Harsh Gupta",
+      "company": "NIT Jalandhar",
+      "email": "harsh123@gmail.com",
+      "title": "Student",
+      "mobile": 9855127455,
+      "photo": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "groupId": "3"
+    },
+    {
+      "id": "KLt-bJF",
+      "name": "Rajan",
+      "company": "LPU Jalandhar",
+      "email": "rajan420@gmail.com",
+      "title": "Student",
+      "mobile": "9888377234",
+      "photo": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "groupId": "1"
+    },
+    {
+      "name": "ggtfdcf",
+      "photo": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aHVtYW58ZW58MHx8MHx8&w=1000&q=80",
+      "email": "dsfvd@gmail.com",
+      "mobile": 54345,
+      "company": "fvdcdvvfdfvdc",
+      "title": "vfdvf",
+      "groupId": "2",
+      "id": "TdIMc8d"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
